@@ -1,0 +1,6 @@
+export const FormsTypes= {
+    SAVE_PERSONAL_FORM: "@form/SAVE_PERSONAL_FORM",
+    GET_CAT_GALLERY:"@form/ GET_CAT_GALLERY",
+    GET_CAT_GALLERY_SUCCESS:"@form/ GET_CAT_GALLERY_SUCCESS"
+    
+}

@@ -1,0 +1,43 @@
+
+.container{
+  display:flex;
+  border-radius: 18px;
+  justify-content: space-around;
+  align-items: center;
+  background-color:white;
+  flex-direction: column;
+  padding: 0 5% 5% 5%;
+}
+
+#formulario{
+width: 80%;
+display:flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: column;
+height: auto;
+}
+
+ img{
+   height: 350px;
+   width: 350px;
+   position: relative; 
+   
+  
+   
+ }
+ #titulo{
+   text-align: center;
+   
+   
+ }
+
+
+.espaco{
+  margin: 20px;
+}
+.criterios{
+  font-size: 18px;
+  
+
+}
